@@ -7,10 +7,5 @@ Data Extraction: Extracts job titles, company names, locations, and more from jo
 Pandas Dataframe: Organizes data into a structured Pandas dataframe for easy analysis.
 Customizable Criteria: Input your preferences for location, education, and experience.
 CSV Export: Saves job details to a CSV file for future reference.
-Usage:
-Clone Repository: git clone https://github.com/your-username/rozee-job-search.git
-Install Dependencies: pip install -r requirements.txt
-Set Up WebDriver: Download ChromeDriver and add it to your system's PATH.
-Run the Script: python rozee_job_search.py
 Input Criteria: Enter your preferred location, education level, and experience.
 Review Results: Analyze job recommendations in the Pandas dataframe or CSV file.
